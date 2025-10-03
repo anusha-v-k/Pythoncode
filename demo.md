@@ -1,0 +1,3 @@
+- git add filename.extension
+  - git add .
+- git commit -m "msg"
